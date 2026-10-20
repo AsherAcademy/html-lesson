@@ -1,0 +1,40 @@
+/*
+selector {
+    property: value;
+}
+
+elment selector
+h1
+table
+p
+ul
+li
+
+Class selector
+.className
+
+Id Selector
+#idName
+
+
+
+*/
+.header {
+    background-color: #000000;
+    padding: 20px;
+}
+ul {
+    list-style: none;
+}
+
+.nav__list {
+    display: flex;
+    gap: 36px;
+    justify-content: flex-end;
+    align-items: center;
+}
+.nav__link {
+    text-decoration: none;
+    color: #ffffff;
+}
+
